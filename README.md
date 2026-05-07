@@ -11,6 +11,12 @@
 > Alemão -
 > Italiano
 
+## Funcionalidades:
+
+> Cadastro temporário
+> Cadastro com e-mail
+> Cadastro somente com nome de usuário
+
 ## Funcionalidade do login:
 
 > Insira seu nome de usuário ou e-mail - Insira sua senha e passe pelo Captcha - Aproveite o aplicativo!
