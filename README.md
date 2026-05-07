@@ -13,5 +13,6 @@
 
 ## Funcionalidades:
 
-> Cadastro
+> Cadastro temporário
 > Cadastro com e-mail
+> Cadastro somente com nome de usuário
