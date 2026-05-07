@@ -10,3 +10,7 @@
 > Espanhol -
 > Alemão -
 > Italiano
+
+## Funcionalidades:
+
+> Cadastro
