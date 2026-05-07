@@ -13,4 +13,4 @@
 
 ## Funcionalidade do login:
 
-> Insira seu nome de usuário ou e-mail - 
+> Insira seu nome de usuário ou e-mail - Insira sua senha e passe pelo Captcha -
