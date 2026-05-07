@@ -3,5 +3,9 @@
 ## Idiomas disponíveis:
 
 > Inglês -
+
 > Espanhol -
+
 > Alemão -
+
+> Italiano -
