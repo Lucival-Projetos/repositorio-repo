@@ -10,3 +10,7 @@
 > Espanhol -
 > Alemão -
 > Italiano
+
+## Funcionalidade do login:
+
+> Insira seu nome de usuário ou e-mail - Insira sua senha e passe pelo Captcha - Aproveite o aplicativo!
