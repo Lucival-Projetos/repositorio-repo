@@ -9,7 +9,11 @@
 > Inglês -
 > Espanhol -
 > Alemão -
-> Italiano
+> Italiano -
+> Russo -
+> Mandarim -
+> Japonês -
+> Francês
 
 ## Funcionalidades:
 
