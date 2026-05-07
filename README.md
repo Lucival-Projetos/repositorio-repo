@@ -14,3 +14,4 @@
 ## Funcionalidades:
 
 > Cadastro
+> Cadastro com e-mail
